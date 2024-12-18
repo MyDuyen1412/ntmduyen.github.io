@@ -71,6 +71,11 @@ body {
   margin: 0;
 }
 
+.profile a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .sidebar section h3 {
   font-size: 1.5rem;
   color: #f4a261;
